@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "26510031724",
+    "firebase_url": "https://snapfood-d670a.firebaseio.com",
+    "project_id": "snapfood-d670a",
+    "storage_bucket": "snapfood-d670a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26510031724:android:aea92577771d5964",
+        "android_client_info": {
+          "package_name": "com.electral.snapfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26510031724-hn7ehmav0igesomip03pl4nu7fuifadg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSbMkPhOSLZ_PjbAY9PJxMrwWIqbiVgH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

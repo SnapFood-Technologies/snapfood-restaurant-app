@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "OrderManagement",
+    "slug": "OrderManagement",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
