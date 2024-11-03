@@ -114,13 +114,13 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.snapfood.order.management"
+    namespace 'com.snapfood.order.management'
     defaultConfig {
-        applicationId "com.snapfood.order.management"
+        applicationId 'com.snapfood.order.management'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "3.1.0"
     }
 
     splits {
