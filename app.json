@@ -2,7 +2,32 @@
   "expo": {
     "name": "OrderManagement",
     "slug": "OrderManagement",
-    "version": "1.0.0",
-    "assetBundlePatterns": ["**/*"]
+    "version": "3.1.0",
+    "assetBundlePatterns": ["**/*"],
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android", "web"],
+    "icon": "./assets/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/snap_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.snapfood.order.management"
+    },
+    "ios": {
+      "bundleIdentifier": "com.electral.ordermanagement",
+      "buildNumber": "1",
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-dev-client"
+    ]
   }
 }
